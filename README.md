@@ -5,7 +5,7 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-$ pip install pycounts_macychan
+$ pip install git+https://github.com/MacyChan/pycounts_macychan
 ```
 
 ## Usage
