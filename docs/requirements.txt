@@ -1,4 +1,4 @@
 myst-nb
 sphinx-autoapi
 sphinx-rtd-theme
-pycounts_macychan
+git+https://github.com/MacyChan/pycounts_macychan
